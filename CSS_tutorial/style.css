@@ -1,0 +1,94 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+body{
+    /* background-color: rgb(20, 1, 1);  
+     background-image: url('C:\\Users\\marka\\Pictures\\Untitled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+.class{
+    /* width: 100px;
+    height: 600px;
+     background-image: url('C:\\Users\\marka\\Pictures\\Untitled.jpg'); 
+    background-size: cover;
+     color: rgb(255, 254, 254); */
+
+    /* width: 500px;
+    height: 600px;
+    border: 5px solid rgb(9, 24, 239);
+    background-image: url('C:\\Users\\marka\\Pictures\\Untitled.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position:  center; */
+
+    /* width: 500px;
+    height: 900px;
+    color: white;
+    border: 5px solid rgb(9, 24, 239);
+    background-image: url('C:\\Users\\marka\\Pictures\\Untitled.jpg');
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-attachment: local; */
+
+    /* width: 500px;
+    height: 900px;
+    color: white;
+    border: 5px solid rgb(9, 24, 239);
+    background: red url('C:\\Users\\marka\\Pictures\\Untitled.jpg') no-repeat top right;   */
+    /* background: background-color img ...... attachment; */
+
+    /* width: 423px;
+    height: 345px;
+    background-color: red;
+    color: white;
+    border: 5px solid rgb(0, 0, 0); */
+    /* margin: 30px 10px 15px 50px;  */
+    /* padding: 10px 50px 10px 10px; */
+    /* top, right, bottom, left */
+    /* margin: 1px 15px;
+    padding: 3px 30px; */
+    /*top-buttom,left-right*/
+
+    /* border-width: 3px;
+    border-style:dashed;
+    border-color: red; */
+
+    /* border: 5px solid red;
+    border-radius: 150px;
+    padding-left:10px ;
+    padding-right: 10px; */
+
+    /*margin collaps  */
+    /* border: 2px solid rgb(0, 0, 0);
+    margin: 140px; */
+
+/* box sizing */
+    
+   /* background-color: red;
+   margin: 30px;
+   height: 700px;
+   width: 233px;
+   border: 2px solid black; */
+
+
+}
+.class1{
+    /*margin collaps  */
+    /* border: 2px solid red;
+    margin: 14px; */
+
+/* bix sizing */
+    /* background-color: aqua;
+    margin: 20px;
+    height: 250px;
+    width: 100%;
+    padding: 2px;
+    border: 2px solid black;
+    box-sizing: border-box; */
+
+    
+}

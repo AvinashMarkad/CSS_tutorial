@@ -1,0 +1,17 @@
+p{
+    /* background-color: pink;
+    height: 200px;
+    width: 300px;
+    text-decoration: underline solid red; */
+
+    /* background-color: pink;
+    height: 200px;
+    width: 300px;
+    text-transform:uppercase;
+    text-align: center;
+    line-height: 20px; */
+
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:oblique;
+}
